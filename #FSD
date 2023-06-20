@@ -1,0 +1,113 @@
+<html>
+
+    <head>
+
+        <link rel="stylesheet" type="text/css" href="style1.css">
+
+        <title>
+
+            BEST FRIEND
+
+        </title>
+
+    </head>
+
+    <body>
+
+            <h1 style="color:rgb(247, 9, 9)"> EVERYTHING ABOUT MY BESTFRIEND </h1>
+
+        <img src="C:\Users\Sai Krishna\OneDrive\Desktop\best friends.webp" alt="5g logo" width="300" height="300"/>
+
+        <p>A true friend is a treasure that is hard to find.I am so happy that i found my best friend. My best friend has always been there for me when nobody else was.
+
+            Since we met, my life has changed for the better.We met by chance, and now we are best friends by choice.Everything we ever do we always do it together.
+
+            we never left eachother in any situation.
+
+        </p>
+
+        <h2 style="color:rgb(38, 0, 255)"> my best friend's <spam style="color:rgb(187, 10, 152)">daily routine.</spam></h2>
+
+        <ol>
+
+            <li> wake up </li>
+
+            <li> fresh up </li>
+
+            <li> eats breakfast </li>
+
+            <li> goes to college </li>
+
+            <li> eats lunch </li>
+
+            <li> goes to beach</li>
+
+            <li> comes back to home</li>
+
+            <li> eats dinner </li>
+
+            <li> scroll insta </li>
+
+            <li>sleep</li>
+
+        </ol>
+
+        <h2 style="color:rgb(8, 201, 8)"> my best friend's fav places</h2>
+
+        <ul>
+
+            <li> beach's </li>
+
+            <li> water falls </li>
+
+            <li> parks </li>
+
+        </ul>
+
+    <table>
+
+        <tr>
+
+            <th> name </th>
+
+            <th> birthday </th>
+
+            <th> zodiac sign </th>
+
+            <th> loves to eat </th>
+
+            <th> hobby </th>
+
+            <th> fav pet </th>
+
+            <th> fav video </th>
+
+        </tr>
+
+        <tr>
+
+            <td> likith </td>
+
+            <td> 27th august </td>
+
+            <td> pisces </td>
+
+            <td> momos </td>
+
+            <td> irritating me </td>
+
+            <td>  <img src="C:\Users\Sai Krishna\OneDrive\Desktop\shih tzu.jpeg" alt="fav pet" width="50" height="50"/> </td>
+
+            <td> <video width="100" height="100"controls>
+
+                <source src="Shih.mp4" type="video/mp4">
+
+            </video></td>
+
+        </tr>
+
+    </table>
+
+    </body>
+
+</html>
