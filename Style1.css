@@ -1,0 +1,96 @@
+body{
+    background-image: url(download.jpeg);
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+legend {
+    text-align: center;
+    font-size: 40px;
+    background: linear-gradient(to right,
+    violet,
+    indigo,
+    blue,
+    green,
+    yellow,
+    orange,
+    red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+ul{
+    color: white;
+}
+
+img{
+    margin: 20px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px auto 100px;
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+}
+
+header{ 
+    background-image: url(download.jpeg);
+    grid-area: 1/1/2/4;
+}
+ 
+aside{
+    background-image: url(download.jpeg);
+    grid-area: 2/1/3/2;
+}
+
+main{
+    background-image: url(download.jpeg);
+    grid-area: 2/2/3/4;
+}
+
+footer{
+    background-image: url(download.jpeg);
+    grid-area: 3/1/5/4;
+}
+table,th,td {
+    color: white;
+    width:500px;
+    margin:auto;
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid ;
+    border-color: blue;
+    background-image: url(download.jpeg);
+}
