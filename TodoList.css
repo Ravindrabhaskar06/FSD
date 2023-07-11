@@ -1,0 +1,64 @@
+body {
+  font-family: serif;
+  color:#362c5f;
+  background-image:url("https://i.pinimg.com/originals/ac/54/a1/ac54a128942c750799c2c1fe144d2467.jpg");
+  margin: 0;
+  padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #container {
+    max-width: 400px;
+    margin: 0 auto;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    text-align: center;
+    
+  }
+  
+  #taskInput {
+    width: 100%;
+    padding: 5px;
+    color:rgb(6, 17, 6);
+    margin-bottom: 10px;
+    border-width:medium;
+  }
+  
+  #addTaskButton {
+    width: 100%;
+    padding: 5px;
+    background-color: #6c265c;
+    color: white;
+    cursor: pointer;
+    border-width:medium;
+    border-color: aliceblue;
+  }
+  
+  #taskList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .taskItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .taskItem input {
+    margin-right: 10px;
+  }
+  
+  .taskItem span {
+    flex-grow: 1;
+  }
+  
+  .taskItem button {
+    background-color: #19071653;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
